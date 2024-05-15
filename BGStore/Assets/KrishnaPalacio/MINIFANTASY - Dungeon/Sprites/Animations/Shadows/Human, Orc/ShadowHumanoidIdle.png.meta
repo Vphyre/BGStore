@@ -1,7 +1,199 @@
 fileFormatVersion: 2
-guid: b3f22568040355344876f14ac4a0f564
+guid: 368ecf942892d014fb47d70072cf8ad7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2562138444706443875
+    second: ShadowHumanoidIdle_0
+  - first:
+      213: -3582345247241982910
+    second: ShadowHumanoidIdle_1
+  - first:
+      213: 5314806174142814869
+    second: ShadowHumanoidIdle_2
+  - first:
+      213: 5866982552679290932
+    second: ShadowHumanoidIdle_3
+  - first:
+      213: 4549860067406503186
+    second: ShadowHumanoidIdle_4
+  - first:
+      213: 8332119704114880645
+    second: ShadowHumanoidIdle_5
+  - first:
+      213: 7036796153650552087
+    second: ShadowHumanoidIdle_6
+  - first:
+      213: 6140022067292070746
+    second: ShadowHumanoidIdle_7
+  - first:
+      213: -4247061343103996908
+    second: ShadowHumanoidIdle_8
+  - first:
+      213: -4288772343608729202
+    second: ShadowHumanoidIdle_9
+  - first:
+      213: 7809273923531443269
+    second: ShadowHumanoidIdle_10
+  - first:
+      213: 4494681156953839222
+    second: ShadowHumanoidIdle_11
+  - first:
+      213: -1901484979284357536
+    second: ShadowHumanoidIdle_12
+  - first:
+      213: -8934729289779708383
+    second: ShadowHumanoidIdle_13
+  - first:
+      213: -3438072124151631764
+    second: ShadowHumanoidIdle_14
+  - first:
+      213: -2314881741425692056
+    second: ShadowHumanoidIdle_15
+  - first:
+      213: 297666173831162387
+    second: ShadowHumanoidIdle_16
+  - first:
+      213: -3135827316636659225
+    second: ShadowHumanoidIdle_17
+  - first:
+      213: 997277208877061209
+    second: ShadowHumanoidIdle_18
+  - first:
+      213: 3149349869636851456
+    second: ShadowHumanoidIdle_19
+  - first:
+      213: -2750072865498442388
+    second: ShadowHumanoidIdle_20
+  - first:
+      213: 8257520045390721529
+    second: ShadowHumanoidIdle_21
+  - first:
+      213: -8558099469878918815
+    second: ShadowHumanoidIdle_22
+  - first:
+      213: 2912572837714578881
+    second: ShadowHumanoidIdle_23
+  - first:
+      213: -8028264407429456215
+    second: ShadowHumanoidIdle_24
+  - first:
+      213: -886987057130813764
+    second: ShadowHumanoidIdle_25
+  - first:
+      213: -3662664807132695845
+    second: ShadowHumanoidIdle_26
+  - first:
+      213: -8224743365537991438
+    second: ShadowHumanoidIdle_27
+  - first:
+      213: -2348884932904722926
+    second: ShadowHumanoidIdle_28
+  - first:
+      213: -3061033421389103263
+    second: ShadowHumanoidIdle_29
+  - first:
+      213: -2214391899310809816
+    second: ShadowHumanoidIdle_30
+  - first:
+      213: 8167701125048069332
+    second: ShadowHumanoidIdle_31
+  - first:
+      213: 3997890678606302315
+    second: ShadowHumanoidIdle_32
+  - first:
+      213: -2739534221319381765
+    second: ShadowHumanoidIdle_33
+  - first:
+      213: 5180722440286451541
+    second: ShadowHumanoidIdle_34
+  - first:
+      213: -4298592298866761818
+    second: ShadowHumanoidIdle_35
+  - first:
+      213: 7167924873779889720
+    second: ShadowHumanoidIdle_36
+  - first:
+      213: -5426336703757430146
+    second: ShadowHumanoidIdle_37
+  - first:
+      213: 1051791274023736953
+    second: ShadowHumanoidIdle_38
+  - first:
+      213: 8509228502609211777
+    second: ShadowHumanoidIdle_39
+  - first:
+      213: 4629840544950647195
+    second: ShadowHumanoidIdle_40
+  - first:
+      213: 858187534151608240
+    second: ShadowHumanoidIdle_41
+  - first:
+      213: -3426829214808602794
+    second: ShadowHumanoidIdle_42
+  - first:
+      213: 5105719493148934417
+    second: ShadowHumanoidIdle_43
+  - first:
+      213: 8420150361316561052
+    second: ShadowHumanoidIdle_44
+  - first:
+      213: 7612251474466539943
+    second: ShadowHumanoidIdle_45
+  - first:
+      213: -7486425771686942762
+    second: ShadowHumanoidIdle_46
+  - first:
+      213: 7278895396220556331
+    second: ShadowHumanoidIdle_47
+  - first:
+      213: 8876121753218820712
+    second: ShadowHumanoidIdle_48
+  - first:
+      213: 8534600868291777322
+    second: ShadowHumanoidIdle_49
+  - first:
+      213: -8862618524603705664
+    second: ShadowHumanoidIdle_50
+  - first:
+      213: -4206960720356518107
+    second: ShadowHumanoidIdle_51
+  - first:
+      213: 9185281755789983888
+    second: ShadowHumanoidIdle_52
+  - first:
+      213: -4370259089192632080
+    second: ShadowHumanoidIdle_53
+  - first:
+      213: 1558282020637180070
+    second: ShadowHumanoidIdle_54
+  - first:
+      213: 1554197023009762534
+    second: ShadowHumanoidIdle_55
+  - first:
+      213: -7020942823457289320
+    second: ShadowHumanoidIdle_56
+  - first:
+      213: 19379484970894771
+    second: ShadowHumanoidIdle_57
+  - first:
+      213: 2095176328101555460
+    second: ShadowHumanoidIdle_58
+  - first:
+      213: -6270000062572694089
+    second: ShadowHumanoidIdle_59
+  - first:
+      213: 4891112089054702173
+    second: ShadowHumanoidIdle_60
+  - first:
+      213: -1025133066385728279
+    second: ShadowHumanoidIdle_61
+  - first:
+      213: -7161254980905270919
+    second: ShadowHumanoidIdle_62
+  - first:
+      213: 2452022086401673642
+    second: ShadowHumanoidIdle_63
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -65,14 +257,14 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -85,7 +277,20 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,138 +302,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_0
+      name: ShadowHumanoidIdle_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 468
-        width: 14
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1755bafee863b947806a57370f7a2df
-      internalID: -566577355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_1
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 466
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c59809d9e5b594b459f8168bac6e775e
-      internalID: 1490935577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_2
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 467
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7b735171f561854cbedfc43c611addf
-      internalID: 2004487667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_3
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 466
-        width: 14
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cb67668659a8374f8a1261db98d51c2
-      internalID: 1232459206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_4
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 468
-        width: 14
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45ad9819d0d6b9e4eba61c18268dfcff
-      internalID: -756712467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_5
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 468
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79f4f9a723a1de4458792ccd3752257e
-      internalID: -1807322061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_6
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 466
-        width: 16
+        x: 0
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -237,20 +316,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c72be629599a24ea5fe836915d3246
-      internalID: -1662665726
+      spriteID: d9d86e9c8a4717cd0800000000000000
+      internalID: -2562138444706443875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_7
+      name: ShadowHumanoidIdle_1
       rect:
         serializedVersion: 2
-        x: 471
-        y: 470
-        width: 18
-        height: 26
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +337,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e7ef5dfea98c043a2b6c3e63da7b24
-      internalID: 959773153
+      spriteID: 24c255b4af3f84ec0800000000000000
+      internalID: -3582345247241982910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_8
+      name: ShadowHumanoidIdle_2
       rect:
         serializedVersion: 2
-        x: 25
-        y: 404
-        width: 14
-        height: 29
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +358,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd4d51ffeae654348ac795a57f307866
-      internalID: 812340861
+      spriteID: 59ad5db6e0cf1c940800000000000000
+      internalID: 5314806174142814869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_9
+      name: ShadowHumanoidIdle_3
       rect:
         serializedVersion: 2
-        x: 88
-        y: 403
-        width: 16
-        height: 28
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +379,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 747b9375892490d46bd4b3f96342fc24
-      internalID: -1662099477
+      spriteID: 4381ddb0c85bb6150800000000000000
+      internalID: 5866982552679290932
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_10
+      name: ShadowHumanoidIdle_4
       rect:
         serializedVersion: 2
-        x: 152
-        y: 404
-        width: 16
-        height: 28
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +400,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb480e7e9f2e13644b7ac167a20c13d7
-      internalID: 380556628
+      spriteID: 21ddf7700a9542f30800000000000000
+      internalID: 4549860067406503186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_11
+      name: ShadowHumanoidIdle_5
       rect:
         serializedVersion: 2
-        x: 216
-        y: 404
-        width: 16
-        height: 28
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +421,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eab5b86612bc9943a23556fc16e8d0b
-      internalID: 1306396965
+      spriteID: 580ecc5b9b2a1a370800000000000000
+      internalID: 8332119704114880645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_12
+      name: ShadowHumanoidIdle_6
       rect:
         serializedVersion: 2
-        x: 280
-        y: 403
-        width: 16
-        height: 25
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +442,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c7c318f374936444b0563e261adf0a5
-      internalID: -1085782950
+      spriteID: 71d1d27b1d8b7a160800000000000000
+      internalID: 7036796153650552087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_13
+      name: ShadowHumanoidIdle_7
       rect:
         serializedVersion: 2
-        x: 342
-        y: 404
-        width: 20
-        height: 23
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +463,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9a4187321f578c429a8d670bae6a632
-      internalID: -1716943758
+      spriteID: a53e00af98db53550800000000000000
+      internalID: 6140022067292070746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_14
+      name: ShadowHumanoidIdle_8
       rect:
         serializedVersion: 2
-        x: 406
-        y: 399
-        width: 20
-        height: 33
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ac72bec303670944add6e11cf9ba190
-      internalID: -1335744714
+      spriteID: 41c2ef8d5386f05c0800000000000000
+      internalID: -4247061343103996908
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_15
+      name: ShadowHumanoidIdle_9
       rect:
         serializedVersion: 2
-        x: 472
-        y: 404
-        width: 17
-        height: 27
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,20 +505,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13594a8872fe25b49af31e1ea93dfc23
-      internalID: -2080297883
+      spriteID: e81aea0c6483b74c0800000000000000
+      internalID: -4288772343608729202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_16
+      name: ShadowHumanoidIdle_10
       rect:
         serializedVersion: 2
-        x: 26
-        y: 340
-        width: 12
-        height: 29
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +526,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89994e0ec4f3ad440b8c442692844eef
-      internalID: 329183725
+      spriteID: 54c00d5124d106c60800000000000000
+      internalID: 7809273923531443269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_17
+      name: ShadowHumanoidIdle_11
       rect:
         serializedVersion: 2
-        x: 89
-        y: 340
-        width: 18
-        height: 29
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +547,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e741292ca0d95d843a656414945874ba
-      internalID: 1700067738
+      spriteID: 67610eac2b0506e30800000000000000
+      internalID: 4494681156953839222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_18
+      name: ShadowHumanoidIdle_12
       rect:
         serializedVersion: 2
-        x: 150
-        y: 340
-        width: 21
-        height: 28
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,20 +568,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a82bc83298e9f34abf99236b879971b
-      internalID: -704563842
+      spriteID: 06ec3006c719c95e0800000000000000
+      internalID: -1901484979284357536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_19
+      name: ShadowHumanoidIdle_13
       rect:
         serializedVersion: 2
-        x: 218
-        y: 340
-        width: 16
-        height: 29
+        x: 416
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,20 +589,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76d723719d164a845b0f4f4ce20fde42
-      internalID: -301480275
+      spriteID: 12ef6669c07710480800000000000000
+      internalID: -8934729289779708383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_20
+      name: ShadowHumanoidIdle_14
       rect:
         serializedVersion: 2
-        x: 278
-        y: 340
-        width: 19
-        height: 29
+        x: 448
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +610,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2404ad789d9d22e4ebc98f0b2c194ee8
-      internalID: 456734343
+      spriteID: c60f4c76e938940d0800000000000000
+      internalID: -3438072124151631764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_21
+      name: ShadowHumanoidIdle_15
       rect:
         serializedVersion: 2
-        x: 347
-        y: 340
-        width: 18
-        height: 25
+        x: 480
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +631,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d5487bf9375ee54c8de5ef479e900ac
-      internalID: 1726795718
+      spriteID: 862b8492253efdfd0800000000000000
+      internalID: -2314881741425692056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_22
+      name: ShadowHumanoidIdle_16
       rect:
         serializedVersion: 2
-        x: 409
-        y: 335
-        width: 17
-        height: 34
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +652,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60350fd9066f7fa43a4b5591100157ca
-      internalID: -1485772560
+      spriteID: 31a2bd8dec5812400800000000000000
+      internalID: 297666173831162387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_23
+      name: ShadowHumanoidIdle_17
       rect:
         serializedVersion: 2
-        x: 476
-        y: 341
-        width: 13
-        height: 27
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +673,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79a268ab70727894da0960906dcfe18c
-      internalID: 513252107
+      spriteID: 7e1d7ea7bad4b74d0800000000000000
+      internalID: -3135827316636659225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_24
+      name: ShadowHumanoidIdle_18
       rect:
         serializedVersion: 2
-        x: 26
-        y: 276
-        width: 12
-        height: 29
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +694,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9761f650798e3a84c86e20a863cc72df
-      internalID: -108721800
+      spriteID: 954d5b1765a07dd00800000000000000
+      internalID: 997277208877061209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_25
+      name: ShadowHumanoidIdle_19
       rect:
         serializedVersion: 2
-        x: 85
-        y: 276
-        width: 18
-        height: 29
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,20 +715,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20de54670a534f04ca5f9d3ce38131f2
-      internalID: 2123206776
+      spriteID: 007902d350db4bb20800000000000000
+      internalID: 3149349869636851456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_26
+      name: ShadowHumanoidIdle_20
       rect:
         serializedVersion: 2
-        x: 149
-        y: 276
-        width: 21
-        height: 28
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,20 +736,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b071a6ff4266e4fb548f0bee7614d6
-      internalID: 1972723908
+      spriteID: c655681ac47c5d9d0800000000000000
+      internalID: -2750072865498442388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_27
+      name: ShadowHumanoidIdle_21
       rect:
         serializedVersion: 2
-        x: 214
-        y: 276
-        width: 16
-        height: 29
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +757,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4f9bdfa5acc0c24eac18de123a58587
-      internalID: 806391672
+      spriteID: 9f17e272bba989270800000000000000
+      internalID: 8257520045390721529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_28
+      name: ShadowHumanoidIdle_22
       rect:
         serializedVersion: 2
-        x: 279
-        y: 276
-        width: 19
-        height: 29
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,20 +778,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 288aa091463b69949bb20c18d1b46e87
-      internalID: -386805682
+      spriteID: 1618869ffd58b3980800000000000000
+      internalID: -8558099469878918815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_29
+      name: ShadowHumanoidIdle_23
       rect:
         serializedVersion: 2
-        x: 339
-        y: 276
-        width: 18
-        height: 25
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,20 +799,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e48eab17de138f443b2ff47974d759e0
-      internalID: 88167995
+      spriteID: 1cdcd6e70998b6820800000000000000
+      internalID: 2912572837714578881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_30
+      name: ShadowHumanoidIdle_24
       rect:
         serializedVersion: 2
-        x: 406
-        y: 271
-        width: 17
-        height: 34
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,20 +820,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5936a5f17508054b9859189985d573c
-      internalID: -1225536615
+      spriteID: 9ae51489e00e59090800000000000000
+      internalID: -8028264407429456215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_31
+      name: ShadowHumanoidIdle_25
       rect:
         serializedVersion: 2
-        x: 471
-        y: 277
-        width: 13
-        height: 27
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +841,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ab111004c17a9e4f85251389289bd4d
-      internalID: 885621756
+      spriteID: cb6495398f9c0b3f0800000000000000
+      internalID: -886987057130813764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_32
+      name: ShadowHumanoidIdle_26
       rect:
         serializedVersion: 2
-        x: 24
-        y: 211
-        width: 14
-        height: 29
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,20 +862,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 138deea27066a2342b1f07e6ed57fa09
-      internalID: 1571218654
+      spriteID: bd2f78773c99b2dc0800000000000000
+      internalID: -3662664807132695845
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_33
+      name: ShadowHumanoidIdle_27
       rect:
         serializedVersion: 2
-        x: 88
-        y: 211
-        width: 15
-        height: 30
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,20 +883,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99154d2e72a57b341934bea6fb7dc6eb
-      internalID: 990015056
+      spriteID: 2f47b505c77dbdd80800000000000000
+      internalID: -8224743365537991438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_34
+      name: ShadowHumanoidIdle_28
       rect:
         serializedVersion: 2
-        x: 153
-        y: 211
-        width: 15
-        height: 30
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,20 +904,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea7399d21dc2df419448af875bdf916
-      internalID: 327065855
+      spriteID: 21e52f33995176fd0800000000000000
+      internalID: -2348884932904722926
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_35
+      name: ShadowHumanoidIdle_29
       rect:
         serializedVersion: 2
-        x: 218
-        y: 211
-        width: 14
-        height: 29
+        x: 416
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,20 +925,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c73d284185b81a43bf02a6bac8004be
-      internalID: -293404912
+      spriteID: 16ff08042560585d0800000000000000
+      internalID: -3061033421389103263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_36
+      name: ShadowHumanoidIdle_30
       rect:
         serializedVersion: 2
-        x: 281
-        y: 211
-        width: 15
-        height: 30
+        x: 448
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,20 +946,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c318589a47077b140bfc57718580446d
-      internalID: 669344720
+      spriteID: 82d9318cc46e441e0800000000000000
+      internalID: -2214391899310809816
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_37
+      name: ShadowHumanoidIdle_31
       rect:
         serializedVersion: 2
-        x: 344
-        y: 211
-        width: 15
-        height: 30
+        x: 480
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,20 +967,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 387b8848fc3063b47adb309abc6f5807
-      internalID: 1827331048
+      spriteID: 4dc6c0e16e0895170800000000000000
+      internalID: 8167701125048069332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_38
+      name: ShadowHumanoidIdle_32
       rect:
         serializedVersion: 2
-        x: 408
-        y: 212
-        width: 18
-        height: 31
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,20 +988,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79d84876aea69f748af7dc55c4570740
-      internalID: -2007616659
+      spriteID: b6c8c25f36c5b7730800000000000000
+      internalID: 3997890678606302315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_39
+      name: ShadowHumanoidIdle_33
       rect:
         serializedVersion: 2
-        x: 470
-        y: 212
-        width: 18
-        height: 31
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,20 +1009,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f61c2cc4a4c90a540974f5141be7a00e
-      internalID: -314973776
+      spriteID: bfc5b30f3283bf9d0800000000000000
+      internalID: -2739534221319381765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_40
+      name: ShadowHumanoidIdle_34
       rect:
         serializedVersion: 2
-        x: 25
-        y: 147
-        width: 14
-        height: 29
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,20 +1030,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08b9b8b0e1c6df348beca37a5f06ff47
-      internalID: 1499519571
+      spriteID: 5573b2d5c9f95e740800000000000000
+      internalID: 5180722440286451541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_41
+      name: ShadowHumanoidIdle_35
       rect:
         serializedVersion: 2
-        x: 88
-        y: 148
-        width: 17
-        height: 29
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,20 +1051,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e8f49b533358740906286837f4bd81
-      internalID: -127190776
+      spriteID: 6af11df34155854c0800000000000000
+      internalID: -4298592298866761818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_42
+      name: ShadowHumanoidIdle_36
       rect:
         serializedVersion: 2
-        x: 151
-        y: 148
-        width: 17
-        height: 29
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,20 +1072,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40b5e9a0e87459149a631e97d39246d4
-      internalID: -487086430
+      spriteID: 836465602b5997360800000000000000
+      internalID: 7167924873779889720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_43
+      name: ShadowHumanoidIdle_37
       rect:
         serializedVersion: 2
-        x: 217
-        y: 147
-        width: 14
-        height: 29
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +1093,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f385d4c1959c824980bd961f9b5c446
-      internalID: 1988266820
+      spriteID: e72dfd49487c1b4b0800000000000000
+      internalID: -5426336703757430146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_44
+      name: ShadowHumanoidIdle_38
       rect:
         serializedVersion: 2
-        x: 279
-        y: 148
-        width: 17
-        height: 29
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,20 +1114,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88a7d8c79de12574896b3185e9e7fac1
-      internalID: -911592129
+      spriteID: 9765a025796b89e00800000000000000
+      internalID: 1051791274023736953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_45
+      name: ShadowHumanoidIdle_39
       rect:
         serializedVersion: 2
-        x: 344
-        y: 148
-        width: 17
-        height: 29
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,20 +1135,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 549fa071d653480419e783b53d71c0fd
-      internalID: -1713702310
+      spriteID: 181b6a24d3ad61670800000000000000
+      internalID: 8509228502609211777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_46
+      name: ShadowHumanoidIdle_40
       rect:
         serializedVersion: 2
-        x: 406
-        y: 148
-        width: 18
-        height: 31
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,20 +1156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b9ab8b0b78fad1479458f6779c8f887
-      internalID: 507638279
+      spriteID: b99fb78127f704040800000000000000
+      internalID: 4629840544950647195
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_47
+      name: ShadowHumanoidIdle_41
       rect:
         serializedVersion: 2
-        x: 472
-        y: 148
-        width: 18
-        height: 31
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,20 +1177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1097a9bab833c834cb657c345e98a208
-      internalID: -1373316433
+      spriteID: 0b766c3f305e8eb00800000000000000
+      internalID: 858187534151608240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_48
+      name: ShadowHumanoidIdle_42
       rect:
         serializedVersion: 2
-        x: 25
-        y: 84
-        width: 14
-        height: 29
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,20 +1198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87c447b63f3016e4ca9e93abcdf4cf82
-      internalID: -850330181
+      spriteID: 65707693cf47170d0800000000000000
+      internalID: -3426829214808602794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_49
+      name: ShadowHumanoidIdle_43
       rect:
         serializedVersion: 2
-        x: 90
-        y: 84
-        width: 12
-        height: 29
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,20 +1219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9f12e99bed1a6a48951b954ef1134e0
-      internalID: -431220110
+      spriteID: 1110ee7e3d82bd640800000000000000
+      internalID: 5105719493148934417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_50
+      name: ShadowHumanoidIdle_44
       rect:
         serializedVersion: 2
-        x: 153
-        y: 84
-        width: 16
-        height: 28
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,20 +1240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cad59a39e6c509847a353ab7ef25b910
-      internalID: 1769370071
+      spriteID: c9096a944226ad470800000000000000
+      internalID: 8420150361316561052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_51
+      name: ShadowHumanoidIdle_45
       rect:
         serializedVersion: 2
-        x: 218
-        y: 84
-        width: 14
-        height: 29
+        x: 416
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,20 +1261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8737a0517636ccd43808d8336404b04c
-      internalID: 842933238
+      spriteID: 7a98584726624a960800000000000000
+      internalID: 7612251474466539943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_52
+      name: ShadowHumanoidIdle_46
       rect:
         serializedVersion: 2
-        x: 281
-        y: 84
-        width: 13
-        height: 29
+        x: 448
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,20 +1282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7853e57de660f864bb778e1b8cd79f12
-      internalID: -190058806
+      spriteID: 6d72549ec6fda1890800000000000000
+      internalID: -7486425771686942762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_53
+      name: ShadowHumanoidIdle_47
       rect:
         serializedVersion: 2
-        x: 342
-        y: 84
-        width: 19
-        height: 28
+        x: 480
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,20 +1303,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b114f0130646774bafad5e0ac12d87c
-      internalID: 1449889856
+      spriteID: b24d3f03cc4d30560800000000000000
+      internalID: 7278895396220556331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_54
+      name: ShadowHumanoidIdle_48
       rect:
         serializedVersion: 2
-        x: 406
-        y: 84
-        width: 20
-        height: 31
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,20 +1324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00c4726942b52849aeefad682bfc02e
-      internalID: -329309894
+      spriteID: 86aa9b3f4b15e2b70800000000000000
+      internalID: 8876121753218820712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_55
+      name: ShadowHumanoidIdle_49
       rect:
         serializedVersion: 2
-        x: 470
-        y: 84
-        width: 19
-        height: 31
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,20 +1345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87e0741d40f570946b3a57649732fca2
-      internalID: -753354645
+      spriteID: a23954e754ef07670800000000000000
+      internalID: 8534600868291777322
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_56
+      name: ShadowHumanoidIdle_50
       rect:
         serializedVersion: 2
-        x: 25
-        y: 20
-        width: 14
-        height: 29
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,20 +1366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2beab5b061b926246ac657270c8ba5b3
-      internalID: 1098438018
+      spriteID: 0c613357867a10580800000000000000
+      internalID: -8862618524603705664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_57
+      name: ShadowHumanoidIdle_51
       rect:
         serializedVersion: 2
-        x: 90
-        y: 20
-        width: 12
-        height: 29
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,20 +1387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05b938584f3f8024c8bd7a78479d91cc
-      internalID: -316869044
+      spriteID: 527d027a38fdd95c0800000000000000
+      internalID: -4206960720356518107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_58
+      name: ShadowHumanoidIdle_52
       rect:
         serializedVersion: 2
-        x: 151
-        y: 20
-        width: 16
-        height: 28
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,20 +1408,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a367b8a7664a52b40a6ea5503b89b806
-      internalID: -174698137
+      spriteID: 0900db7571da87f70800000000000000
+      internalID: 9185281755789983888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_59
+      name: ShadowHumanoidIdle_53
       rect:
         serializedVersion: 2
-        x: 216
-        y: 20
-        width: 14
-        height: 29
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,20 +1429,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca7f2c3ab18c73f4998f50c4ee667a9a
-      internalID: 78518292
+      spriteID: 0f040445388b953c0800000000000000
+      internalID: -4370259089192632080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_60
+      name: ShadowHumanoidIdle_54
       rect:
         serializedVersion: 2
-        x: 282
-        y: 20
-        width: 13
-        height: 29
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,20 +1450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2777dea1cd3fef34a8405c50c87d66f9
-      internalID: 808586248
+      spriteID: 6a005fbdd3120a510800000000000000
+      internalID: 1558282020637180070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_61
+      name: ShadowHumanoidIdle_55
       rect:
         serializedVersion: 2
-        x: 343
-        y: 20
-        width: 19
-        height: 28
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,20 +1471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33ca6408d90433749ae7ff993f19b671
-      internalID: 1748875740
+      spriteID: 6ec677b35fd919510800000000000000
+      internalID: 1554197023009762534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_62
+      name: ShadowHumanoidIdle_56
       rect:
         serializedVersion: 2
-        x: 406
-        y: 20
-        width: 20
-        height: 31
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,20 +1492,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ff17d5e6f48c48419cdaf360969225f
-      internalID: -1065709570
+      spriteID: 89b008b53b9909e90800000000000000
+      internalID: -7020942823457289320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_63
+      name: ShadowHumanoidIdle_57
       rect:
         serializedVersion: 2
-        x: 471
-        y: 20
-        width: 19
-        height: 31
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,8 +1513,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb771b197b807cd4f9e43891c2094f99
-      internalID: -1098958346
+      spriteID: 3b5ce95f989d44000800000000000000
+      internalID: 19379484970894771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dec4a05cf831d10800000000000000
+      internalID: 2095176328101555460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57da8b92c7cf8a0800000000000000
+      internalID: -6270000062572694089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a69b0e788b0e340800000000000000
+      internalID: 4891112089054702173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec529258eef5c1f0800000000000000
+      internalID: -1025133066385728279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971052d698c1e9c90800000000000000
+      internalID: -7161254980905270919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShadowHumanoidIdle_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94261a815570220800000000000000
+      internalID: 2452022086401673642
       vertices: []
       indices: 
       edges: []
@@ -1451,70 +1656,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_0bas_humn_v01_0: -566577355
-      char_a_p1_0bas_humn_v01_1: 1490935577
-      char_a_p1_0bas_humn_v01_10: 380556628
-      char_a_p1_0bas_humn_v01_11: 1306396965
-      char_a_p1_0bas_humn_v01_12: -1085782950
-      char_a_p1_0bas_humn_v01_13: -1716943758
-      char_a_p1_0bas_humn_v01_14: -1335744714
-      char_a_p1_0bas_humn_v01_15: -2080297883
-      char_a_p1_0bas_humn_v01_16: 329183725
-      char_a_p1_0bas_humn_v01_17: 1700067738
-      char_a_p1_0bas_humn_v01_18: -704563842
-      char_a_p1_0bas_humn_v01_19: -301480275
-      char_a_p1_0bas_humn_v01_2: 2004487667
-      char_a_p1_0bas_humn_v01_20: 456734343
-      char_a_p1_0bas_humn_v01_21: 1726795718
-      char_a_p1_0bas_humn_v01_22: -1485772560
-      char_a_p1_0bas_humn_v01_23: 513252107
-      char_a_p1_0bas_humn_v01_24: -108721800
-      char_a_p1_0bas_humn_v01_25: 2123206776
-      char_a_p1_0bas_humn_v01_26: 1972723908
-      char_a_p1_0bas_humn_v01_27: 806391672
-      char_a_p1_0bas_humn_v01_28: -386805682
-      char_a_p1_0bas_humn_v01_29: 88167995
-      char_a_p1_0bas_humn_v01_3: 1232459206
-      char_a_p1_0bas_humn_v01_30: -1225536615
-      char_a_p1_0bas_humn_v01_31: 885621756
-      char_a_p1_0bas_humn_v01_32: 1571218654
-      char_a_p1_0bas_humn_v01_33: 990015056
-      char_a_p1_0bas_humn_v01_34: 327065855
-      char_a_p1_0bas_humn_v01_35: -293404912
-      char_a_p1_0bas_humn_v01_36: 669344720
-      char_a_p1_0bas_humn_v01_37: 1827331048
-      char_a_p1_0bas_humn_v01_38: -2007616659
-      char_a_p1_0bas_humn_v01_39: -314973776
-      char_a_p1_0bas_humn_v01_4: -756712467
-      char_a_p1_0bas_humn_v01_40: 1499519571
-      char_a_p1_0bas_humn_v01_41: -127190776
-      char_a_p1_0bas_humn_v01_42: -487086430
-      char_a_p1_0bas_humn_v01_43: 1988266820
-      char_a_p1_0bas_humn_v01_44: -911592129
-      char_a_p1_0bas_humn_v01_45: -1713702310
-      char_a_p1_0bas_humn_v01_46: 507638279
-      char_a_p1_0bas_humn_v01_47: -1373316433
-      char_a_p1_0bas_humn_v01_48: -850330181
-      char_a_p1_0bas_humn_v01_49: -431220110
-      char_a_p1_0bas_humn_v01_5: -1807322061
-      char_a_p1_0bas_humn_v01_50: 1769370071
-      char_a_p1_0bas_humn_v01_51: 842933238
-      char_a_p1_0bas_humn_v01_52: -190058806
-      char_a_p1_0bas_humn_v01_53: 1449889856
-      char_a_p1_0bas_humn_v01_54: -329309894
-      char_a_p1_0bas_humn_v01_55: -753354645
-      char_a_p1_0bas_humn_v01_56: 1098438018
-      char_a_p1_0bas_humn_v01_57: -316869044
-      char_a_p1_0bas_humn_v01_58: -174698137
-      char_a_p1_0bas_humn_v01_59: 78518292
-      char_a_p1_0bas_humn_v01_6: -1662665726
-      char_a_p1_0bas_humn_v01_60: 808586248
-      char_a_p1_0bas_humn_v01_61: 1748875740
-      char_a_p1_0bas_humn_v01_62: -1065709570
-      char_a_p1_0bas_humn_v01_63: -1098958346
-      char_a_p1_0bas_humn_v01_7: 959773153
-      char_a_p1_0bas_humn_v01_8: 812340861
-      char_a_p1_0bas_humn_v01_9: -1662099477
+      ShadowHumanoidIdle_0: -2562138444706443875
+      ShadowHumanoidIdle_1: -3582345247241982910
+      ShadowHumanoidIdle_10: 7809273923531443269
+      ShadowHumanoidIdle_11: 4494681156953839222
+      ShadowHumanoidIdle_12: -1901484979284357536
+      ShadowHumanoidIdle_13: -8934729289779708383
+      ShadowHumanoidIdle_14: -3438072124151631764
+      ShadowHumanoidIdle_15: -2314881741425692056
+      ShadowHumanoidIdle_16: 297666173831162387
+      ShadowHumanoidIdle_17: -3135827316636659225
+      ShadowHumanoidIdle_18: 997277208877061209
+      ShadowHumanoidIdle_19: 3149349869636851456
+      ShadowHumanoidIdle_2: 5314806174142814869
+      ShadowHumanoidIdle_20: -2750072865498442388
+      ShadowHumanoidIdle_21: 8257520045390721529
+      ShadowHumanoidIdle_22: -8558099469878918815
+      ShadowHumanoidIdle_23: 2912572837714578881
+      ShadowHumanoidIdle_24: -8028264407429456215
+      ShadowHumanoidIdle_25: -886987057130813764
+      ShadowHumanoidIdle_26: -3662664807132695845
+      ShadowHumanoidIdle_27: -8224743365537991438
+      ShadowHumanoidIdle_28: -2348884932904722926
+      ShadowHumanoidIdle_29: -3061033421389103263
+      ShadowHumanoidIdle_3: 5866982552679290932
+      ShadowHumanoidIdle_30: -2214391899310809816
+      ShadowHumanoidIdle_31: 8167701125048069332
+      ShadowHumanoidIdle_32: 3997890678606302315
+      ShadowHumanoidIdle_33: -2739534221319381765
+      ShadowHumanoidIdle_34: 5180722440286451541
+      ShadowHumanoidIdle_35: -4298592298866761818
+      ShadowHumanoidIdle_36: 7167924873779889720
+      ShadowHumanoidIdle_37: -5426336703757430146
+      ShadowHumanoidIdle_38: 1051791274023736953
+      ShadowHumanoidIdle_39: 8509228502609211777
+      ShadowHumanoidIdle_4: 4549860067406503186
+      ShadowHumanoidIdle_40: 4629840544950647195
+      ShadowHumanoidIdle_41: 858187534151608240
+      ShadowHumanoidIdle_42: -3426829214808602794
+      ShadowHumanoidIdle_43: 5105719493148934417
+      ShadowHumanoidIdle_44: 8420150361316561052
+      ShadowHumanoidIdle_45: 7612251474466539943
+      ShadowHumanoidIdle_46: -7486425771686942762
+      ShadowHumanoidIdle_47: 7278895396220556331
+      ShadowHumanoidIdle_48: 8876121753218820712
+      ShadowHumanoidIdle_49: 8534600868291777322
+      ShadowHumanoidIdle_5: 8332119704114880645
+      ShadowHumanoidIdle_50: -8862618524603705664
+      ShadowHumanoidIdle_51: -4206960720356518107
+      ShadowHumanoidIdle_52: 9185281755789983888
+      ShadowHumanoidIdle_53: -4370259089192632080
+      ShadowHumanoidIdle_54: 1558282020637180070
+      ShadowHumanoidIdle_55: 1554197023009762534
+      ShadowHumanoidIdle_56: -7020942823457289320
+      ShadowHumanoidIdle_57: 19379484970894771
+      ShadowHumanoidIdle_58: 2095176328101555460
+      ShadowHumanoidIdle_59: -6270000062572694089
+      ShadowHumanoidIdle_6: 7036796153650552087
+      ShadowHumanoidIdle_60: 4891112089054702173
+      ShadowHumanoidIdle_61: -1025133066385728279
+      ShadowHumanoidIdle_62: -7161254980905270919
+      ShadowHumanoidIdle_63: 2452022086401673642
+      ShadowHumanoidIdle_7: 6140022067292070746
+      ShadowHumanoidIdle_8: -4247061343103996908
+      ShadowHumanoidIdle_9: -4288772343608729202
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

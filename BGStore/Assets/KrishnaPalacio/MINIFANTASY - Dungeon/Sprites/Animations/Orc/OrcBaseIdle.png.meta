@@ -1,7 +1,199 @@
 fileFormatVersion: 2
-guid: b3f22568040355344876f14ac4a0f564
+guid: d3df8c8b3a27b8b44a8117d2f0e38800
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5717584393450056696
+    second: OrcBaseIdle_0
+  - first:
+      213: 8036290580475782788
+    second: OrcBaseIdle_1
+  - first:
+      213: -6075310416523940504
+    second: OrcBaseIdle_2
+  - first:
+      213: -1718724041880390511
+    second: OrcBaseIdle_3
+  - first:
+      213: -7552264916850868914
+    second: OrcBaseIdle_4
+  - first:
+      213: 1192743203919900083
+    second: OrcBaseIdle_5
+  - first:
+      213: 2678255166240876931
+    second: OrcBaseIdle_6
+  - first:
+      213: -5751026311993138640
+    second: OrcBaseIdle_7
+  - first:
+      213: 8487289639555340448
+    second: OrcBaseIdle_8
+  - first:
+      213: -262612338531403044
+    second: OrcBaseIdle_9
+  - first:
+      213: 29643515174925299
+    second: OrcBaseIdle_10
+  - first:
+      213: 4050839375062998818
+    second: OrcBaseIdle_11
+  - first:
+      213: -8620208044091911152
+    second: OrcBaseIdle_12
+  - first:
+      213: 5399261295478812705
+    second: OrcBaseIdle_13
+  - first:
+      213: 8266346290578771504
+    second: OrcBaseIdle_14
+  - first:
+      213: -892589645532556037
+    second: OrcBaseIdle_15
+  - first:
+      213: -8103824365403274220
+    second: OrcBaseIdle_16
+  - first:
+      213: 5044924229776873052
+    second: OrcBaseIdle_17
+  - first:
+      213: 5719576846334713001
+    second: OrcBaseIdle_18
+  - first:
+      213: -900316634178524223
+    second: OrcBaseIdle_19
+  - first:
+      213: -7749980266992972274
+    second: OrcBaseIdle_20
+  - first:
+      213: -7789894702351521517
+    second: OrcBaseIdle_21
+  - first:
+      213: -1159329589549419507
+    second: OrcBaseIdle_22
+  - first:
+      213: 1838860512847873853
+    second: OrcBaseIdle_23
+  - first:
+      213: -7859095764965124947
+    second: OrcBaseIdle_24
+  - first:
+      213: 8670525833754539897
+    second: OrcBaseIdle_25
+  - first:
+      213: 6483123373678834648
+    second: OrcBaseIdle_26
+  - first:
+      213: -4325730010255943439
+    second: OrcBaseIdle_27
+  - first:
+      213: -266825668020131086
+    second: OrcBaseIdle_28
+  - first:
+      213: 115507915926241170
+    second: OrcBaseIdle_29
+  - first:
+      213: 4896560822865507143
+    second: OrcBaseIdle_30
+  - first:
+      213: 6847372049720871941
+    second: OrcBaseIdle_31
+  - first:
+      213: 8288623382817047645
+    second: OrcBaseIdle_32
+  - first:
+      213: 6438163550838505234
+    second: OrcBaseIdle_33
+  - first:
+      213: -2869137006359025258
+    second: OrcBaseIdle_34
+  - first:
+      213: -6232291119345686236
+    second: OrcBaseIdle_35
+  - first:
+      213: 7727914201207082894
+    second: OrcBaseIdle_36
+  - first:
+      213: -8526103530821700906
+    second: OrcBaseIdle_37
+  - first:
+      213: 1026455106457118017
+    second: OrcBaseIdle_38
+  - first:
+      213: 7498543408376803936
+    second: OrcBaseIdle_39
+  - first:
+      213: 7124151952666394300
+    second: OrcBaseIdle_40
+  - first:
+      213: 760457711714051092
+    second: OrcBaseIdle_41
+  - first:
+      213: -8372723739701223374
+    second: OrcBaseIdle_42
+  - first:
+      213: 4020732786683871992
+    second: OrcBaseIdle_43
+  - first:
+      213: -7597684266959735860
+    second: OrcBaseIdle_44
+  - first:
+      213: -1013755374020276087
+    second: OrcBaseIdle_45
+  - first:
+      213: -8470299961544873306
+    second: OrcBaseIdle_46
+  - first:
+      213: -5461158681913815433
+    second: OrcBaseIdle_47
+  - first:
+      213: 8664099980447622851
+    second: OrcBaseIdle_48
+  - first:
+      213: -515184814637997397
+    second: OrcBaseIdle_49
+  - first:
+      213: 2309622406218949616
+    second: OrcBaseIdle_50
+  - first:
+      213: -7992018756665474293
+    second: OrcBaseIdle_51
+  - first:
+      213: -3698053201241789320
+    second: OrcBaseIdle_52
+  - first:
+      213: -3321276977130594485
+    second: OrcBaseIdle_53
+  - first:
+      213: 2460871789120363207
+    second: OrcBaseIdle_54
+  - first:
+      213: 5927742950636272725
+    second: OrcBaseIdle_55
+  - first:
+      213: 5333652866440203510
+    second: OrcBaseIdle_56
+  - first:
+      213: 445201460286234113
+    second: OrcBaseIdle_57
+  - first:
+      213: 1761887683327326957
+    second: OrcBaseIdle_58
+  - first:
+      213: 3614532462968404040
+    second: OrcBaseIdle_59
+  - first:
+      213: -6909430655278595210
+    second: OrcBaseIdle_60
+  - first:
+      213: -3626594273875113969
+    second: OrcBaseIdle_61
+  - first:
+      213: -6444286030399994073
+    second: OrcBaseIdle_62
+  - first:
+      213: -7961990642917921374
+    second: OrcBaseIdle_63
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -48,7 +240,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -65,14 +257,14 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -85,7 +277,20 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,138 +302,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_0
+      name: OrcBaseIdle_0
       rect:
         serializedVersion: 2
-        x: 25
-        y: 468
-        width: 14
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1755bafee863b947806a57370f7a2df
-      internalID: -566577355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_1
-      rect:
-        serializedVersion: 2
-        x: 88
-        y: 466
-        width: 16
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c59809d9e5b594b459f8168bac6e775e
-      internalID: 1490935577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_2
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 467
-        width: 16
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7b735171f561854cbedfc43c611addf
-      internalID: 2004487667
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_3
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 466
-        width: 14
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cb67668659a8374f8a1261db98d51c2
-      internalID: 1232459206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_4
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 468
-        width: 14
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 45ad9819d0d6b9e4eba61c18268dfcff
-      internalID: -756712467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_5
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 468
-        width: 24
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79f4f9a723a1de4458792ccd3752257e
-      internalID: -1807322061
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_6
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 466
-        width: 16
+        x: 0
+        y: 96
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -237,20 +316,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9c72be629599a24ea5fe836915d3246
-      internalID: -1662665726
+      spriteID: 8fb68e876b0f85f40800000000000000
+      internalID: 5717584393450056696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_7
+      name: OrcBaseIdle_1
       rect:
         serializedVersion: 2
-        x: 471
-        y: 470
-        width: 18
-        height: 26
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +337,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e7ef5dfea98c043a2b6c3e63da7b24
-      internalID: 959773153
+      spriteID: 486a31174b3a68f60800000000000000
+      internalID: 8036290580475782788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_8
+      name: OrcBaseIdle_2
       rect:
         serializedVersion: 2
-        x: 25
-        y: 404
-        width: 14
-        height: 29
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +358,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd4d51ffeae654348ac795a57f307866
-      internalID: 812340861
+      spriteID: 86d2cd25d5920bba0800000000000000
+      internalID: -6075310416523940504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_9
+      name: OrcBaseIdle_3
       rect:
         serializedVersion: 2
-        x: 88
-        y: 403
-        width: 16
-        height: 28
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +379,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 747b9375892490d46bd4b3f96342fc24
-      internalID: -1662099477
+      spriteID: 194bbc0179dd528e0800000000000000
+      internalID: -1718724041880390511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_10
+      name: OrcBaseIdle_4
       rect:
         serializedVersion: 2
-        x: 152
-        y: 404
-        width: 16
-        height: 28
+        x: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +400,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb480e7e9f2e13644b7ac167a20c13d7
-      internalID: 380556628
+      spriteID: e4d757d5217f03790800000000000000
+      internalID: -7552264916850868914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_11
+      name: OrcBaseIdle_5
       rect:
         serializedVersion: 2
-        x: 216
-        y: 404
-        width: 16
-        height: 28
+        x: 160
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +421,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0eab5b86612bc9943a23556fc16e8d0b
-      internalID: 1306396965
+      spriteID: 3bd28e1ef997d8010800000000000000
+      internalID: 1192743203919900083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_12
+      name: OrcBaseIdle_6
       rect:
         serializedVersion: 2
-        x: 280
-        y: 403
-        width: 16
-        height: 25
+        x: 192
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,20 +442,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c7c318f374936444b0563e261adf0a5
-      internalID: -1085782950
+      spriteID: 38964a932e21b2520800000000000000
+      internalID: 2678255166240876931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_13
+      name: OrcBaseIdle_7
       rect:
         serializedVersion: 2
-        x: 342
-        y: 404
-        width: 20
-        height: 23
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,20 +463,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9a4187321f578c429a8d670bae6a632
-      internalID: -1716943758
+      spriteID: 03269bb1a004030b0800000000000000
+      internalID: -5751026311993138640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_14
+      name: OrcBaseIdle_8
       rect:
         serializedVersion: 2
-        x: 406
-        y: 399
-        width: 20
-        height: 33
+        x: 256
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ac72bec303670944add6e11cf9ba190
-      internalID: -1335744714
+      spriteID: 0a89c87a5f8e8c570800000000000000
+      internalID: 8487289639555340448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_15
+      name: OrcBaseIdle_9
       rect:
         serializedVersion: 2
-        x: 472
-        y: 404
-        width: 17
-        height: 27
+        x: 288
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,20 +505,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13594a8872fe25b49af31e1ea93dfc23
-      internalID: -2080297883
+      spriteID: cda733038730b5cf0800000000000000
+      internalID: -262612338531403044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_16
+      name: OrcBaseIdle_10
       rect:
         serializedVersion: 2
-        x: 26
-        y: 340
-        width: 12
-        height: 29
+        x: 320
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -447,20 +526,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89994e0ec4f3ad440b8c442692844eef
-      internalID: 329183725
+      spriteID: 3f335e7be90596000800000000000000
+      internalID: 29643515174925299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_17
+      name: OrcBaseIdle_11
       rect:
         serializedVersion: 2
-        x: 89
-        y: 340
-        width: 18
-        height: 29
+        x: 352
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,20 +547,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e741292ca0d95d843a656414945874ba
-      internalID: 1700067738
+      spriteID: 22f9bc803f8773830800000000000000
+      internalID: 4050839375062998818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_18
+      name: OrcBaseIdle_12
       rect:
         serializedVersion: 2
-        x: 150
-        y: 340
-        width: 21
-        height: 28
+        x: 384
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -489,20 +568,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a82bc83298e9f34abf99236b879971b
-      internalID: -704563842
+      spriteID: 014dfe9a47ede5880800000000000000
+      internalID: -8620208044091911152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_19
+      name: OrcBaseIdle_13
       rect:
         serializedVersion: 2
-        x: 218
-        y: 340
-        width: 16
-        height: 29
+        x: 416
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -510,20 +589,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76d723719d164a845b0f4f4ce20fde42
-      internalID: -301480275
+      spriteID: 120b78eaa870eea40800000000000000
+      internalID: 5399261295478812705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_20
+      name: OrcBaseIdle_14
       rect:
         serializedVersion: 2
-        x: 278
-        y: 340
-        width: 19
-        height: 29
+        x: 448
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -531,20 +610,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2404ad789d9d22e4ebc98f0b2c194ee8
-      internalID: 456734343
+      spriteID: 03ec0508726f7b270800000000000000
+      internalID: 8266346290578771504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_21
+      name: OrcBaseIdle_15
       rect:
         serializedVersion: 2
-        x: 347
-        y: 340
-        width: 18
-        height: 25
+        x: 480
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +631,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d5487bf9375ee54c8de5ef479e900ac
-      internalID: 1726795718
+      spriteID: bf417df4272ec93f0800000000000000
+      internalID: -892589645532556037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_22
+      name: OrcBaseIdle_16
       rect:
         serializedVersion: 2
-        x: 409
-        y: 335
-        width: 17
-        height: 34
+        x: 0
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +652,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60350fd9066f7fa43a4b5591100157ca
-      internalID: -1485772560
+      spriteID: 4148bf1fcae698f80800000000000000
+      internalID: -8103824365403274220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_23
+      name: OrcBaseIdle_17
       rect:
         serializedVersion: 2
-        x: 476
-        y: 341
-        width: 13
-        height: 27
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,20 +673,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79a268ab70727894da0960906dcfe18c
-      internalID: 513252107
+      spriteID: c569c9a9bdb230640800000000000000
+      internalID: 5044924229776873052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_24
+      name: OrcBaseIdle_18
       rect:
         serializedVersion: 2
-        x: 26
-        y: 276
-        width: 12
-        height: 29
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +694,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9761f650798e3a84c86e20a863cc72df
-      internalID: -108721800
+      spriteID: 9ac545f86d4006f40800000000000000
+      internalID: 5719576846334713001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_25
+      name: OrcBaseIdle_19
       rect:
         serializedVersion: 2
-        x: 85
-        y: 276
-        width: 18
-        height: 29
+        x: 96
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,20 +715,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20de54670a534f04ca5f9d3ce38131f2
-      internalID: 2123206776
+      spriteID: 1cbe9629ace6183f0800000000000000
+      internalID: -900316634178524223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_26
+      name: OrcBaseIdle_20
       rect:
         serializedVersion: 2
-        x: 149
-        y: 276
-        width: 21
-        height: 28
+        x: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -657,20 +736,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61b071a6ff4266e4fb548f0bee7614d6
-      internalID: 1972723908
+      spriteID: e0ec891220a827490800000000000000
+      internalID: -7749980266992972274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_27
+      name: OrcBaseIdle_21
       rect:
         serializedVersion: 2
-        x: 214
-        y: 276
-        width: 16
-        height: 29
+        x: 160
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,20 +757,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4f9bdfa5acc0c24eac18de123a58587
-      internalID: 806391672
+      spriteID: 319e3a47a0cb4e390800000000000000
+      internalID: -7789894702351521517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_28
+      name: OrcBaseIdle_22
       rect:
         serializedVersion: 2
-        x: 279
-        y: 276
-        width: 19
-        height: 29
+        x: 192
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -699,20 +778,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 288aa091463b69949bb20c18d1b46e87
-      internalID: -386805682
+      spriteID: d04be4571eb39efe0800000000000000
+      internalID: -1159329589549419507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_29
+      name: OrcBaseIdle_23
       rect:
         serializedVersion: 2
-        x: 339
-        y: 276
-        width: 18
-        height: 25
+        x: 224
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -720,20 +799,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e48eab17de138f443b2ff47974d759e0
-      internalID: 88167995
+      spriteID: d374acbc4e1f48910800000000000000
+      internalID: 1838860512847873853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_30
+      name: OrcBaseIdle_24
       rect:
         serializedVersion: 2
-        x: 406
-        y: 271
-        width: 17
-        height: 34
+        x: 256
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -741,20 +820,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5936a5f17508054b9859189985d573c
-      internalID: -1225536615
+      spriteID: da41a718a02eee290800000000000000
+      internalID: -7859095764965124947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_31
+      name: OrcBaseIdle_25
       rect:
         serializedVersion: 2
-        x: 471
-        y: 277
-        width: 13
-        height: 27
+        x: 288
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -762,20 +841,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ab111004c17a9e4f85251389289bd4d
-      internalID: 885621756
+      spriteID: 97779c0be45e35870800000000000000
+      internalID: 8670525833754539897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_32
+      name: OrcBaseIdle_26
       rect:
         serializedVersion: 2
-        x: 24
-        y: 211
-        width: 14
-        height: 29
+        x: 320
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,20 +862,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 138deea27066a2342b1f07e6ed57fa09
-      internalID: 1571218654
+      spriteID: 8d3b82bfb5ea8f950800000000000000
+      internalID: 6483123373678834648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_33
+      name: OrcBaseIdle_27
       rect:
         serializedVersion: 2
-        x: 88
-        y: 211
-        width: 15
-        height: 30
+        x: 352
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,20 +883,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99154d2e72a57b341934bea6fb7dc6eb
-      internalID: 990015056
+      spriteID: 1f89270797be7f3c0800000000000000
+      internalID: -4325730010255943439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_34
+      name: OrcBaseIdle_28
       rect:
         serializedVersion: 2
-        x: 153
-        y: 211
-        width: 15
-        height: 30
+        x: 384
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -825,20 +904,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bea7399d21dc2df419448af875bdf916
-      internalID: 327065855
+      spriteID: 2fa24b8f77b0c4cf0800000000000000
+      internalID: -266825668020131086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_35
+      name: OrcBaseIdle_29
       rect:
         serializedVersion: 2
-        x: 218
-        y: 211
-        width: 14
-        height: 29
+        x: 416
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,20 +925,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c73d284185b81a43bf02a6bac8004be
-      internalID: -293404912
+      spriteID: 29f778966dd5a9100800000000000000
+      internalID: 115507915926241170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_36
+      name: OrcBaseIdle_30
       rect:
         serializedVersion: 2
-        x: 281
-        y: 211
-        width: 15
-        height: 30
+        x: 448
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -867,20 +946,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c318589a47077b140bfc57718580446d
-      internalID: 669344720
+      spriteID: 7433ef3102414f340800000000000000
+      internalID: 4896560822865507143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_37
+      name: OrcBaseIdle_31
       rect:
         serializedVersion: 2
-        x: 344
-        y: 211
-        width: 15
-        height: 30
+        x: 480
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,20 +967,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 387b8848fc3063b47adb309abc6f5807
-      internalID: 1827331048
+      spriteID: 50c0d8ca990c60f50800000000000000
+      internalID: 6847372049720871941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_38
+      name: OrcBaseIdle_32
       rect:
         serializedVersion: 2
-        x: 408
-        y: 212
-        width: 18
-        height: 31
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -909,20 +988,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79d84876aea69f748af7dc55c4570740
-      internalID: -2007616659
+      spriteID: d548ec93d0b170370800000000000000
+      internalID: 8288623382817047645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_39
+      name: OrcBaseIdle_33
       rect:
         serializedVersion: 2
-        x: 470
-        y: 212
-        width: 18
-        height: 31
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -930,20 +1009,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f61c2cc4a4c90a540974f5141be7a00e
-      internalID: -314973776
+      spriteID: 21fb89d73a3f85950800000000000000
+      internalID: 6438163550838505234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_40
+      name: OrcBaseIdle_34
       rect:
         serializedVersion: 2
-        x: 25
-        y: 147
-        width: 14
-        height: 29
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -951,20 +1030,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08b9b8b0e1c6df348beca37a5f06ff47
-      internalID: 1499519571
+      spriteID: 699ea041817ce28d0800000000000000
+      internalID: -2869137006359025258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_41
+      name: OrcBaseIdle_35
       rect:
         serializedVersion: 2
-        x: 88
-        y: 148
-        width: 17
-        height: 29
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -972,20 +1051,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7e8f49b533358740906286837f4bd81
-      internalID: -127190776
+      spriteID: 429249e3f347289a0800000000000000
+      internalID: -6232291119345686236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_42
+      name: OrcBaseIdle_36
       rect:
         serializedVersion: 2
-        x: 151
-        y: 148
-        width: 17
-        height: 29
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -993,20 +1072,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40b5e9a0e87459149a631e97d39246d4
-      internalID: -487086430
+      spriteID: e8f05a195011f3b60800000000000000
+      internalID: 7727914201207082894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_43
+      name: OrcBaseIdle_37
       rect:
         serializedVersion: 2
-        x: 217
-        y: 147
-        width: 14
-        height: 29
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +1093,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f385d4c1959c824980bd961f9b5c446
-      internalID: 1988266820
+      spriteID: 6d23b2f03023da980800000000000000
+      internalID: -8526103530821700906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_44
+      name: OrcBaseIdle_38
       rect:
         serializedVersion: 2
-        x: 279
-        y: 148
-        width: 17
-        height: 29
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1035,20 +1114,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88a7d8c79de12574896b3185e9e7fac1
-      internalID: -911592129
+      spriteID: 145234e1b73be3e00800000000000000
+      internalID: 1026455106457118017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_45
+      name: OrcBaseIdle_39
       rect:
         serializedVersion: 2
-        x: 344
-        y: 148
-        width: 17
-        height: 29
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,20 +1135,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 549fa071d653480419e783b53d71c0fd
-      internalID: -1713702310
+      spriteID: 062752d308d201860800000000000000
+      internalID: 7498543408376803936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_46
+      name: OrcBaseIdle_40
       rect:
         serializedVersion: 2
-        x: 406
-        y: 148
-        width: 18
-        height: 31
+        x: 256
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1077,20 +1156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b9ab8b0b78fad1479458f6779c8f887
-      internalID: 507638279
+      spriteID: cbef590a4721ed260800000000000000
+      internalID: 7124151952666394300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_47
+      name: OrcBaseIdle_41
       rect:
         serializedVersion: 2
-        x: 472
-        y: 148
-        width: 18
-        height: 31
+        x: 288
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,20 +1177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1097a9bab833c834cb657c345e98a208
-      internalID: -1373316433
+      spriteID: 4142c6d7240bd8a00800000000000000
+      internalID: 760457711714051092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_48
+      name: OrcBaseIdle_42
       rect:
         serializedVersion: 2
-        x: 25
-        y: 84
-        width: 14
-        height: 29
+        x: 320
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1119,20 +1198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87c447b63f3016e4ca9e93abcdf4cf82
-      internalID: -850330181
+      spriteID: 230e0ac8e1c1ecb80800000000000000
+      internalID: -8372723739701223374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_49
+      name: OrcBaseIdle_43
       rect:
         serializedVersion: 2
-        x: 90
-        y: 84
-        width: 12
-        height: 29
+        x: 352
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,20 +1219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9f12e99bed1a6a48951b954ef1134e0
-      internalID: -431220110
+      spriteID: 8f20f0faa238cc730800000000000000
+      internalID: 4020732786683871992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_50
+      name: OrcBaseIdle_44
       rect:
         serializedVersion: 2
-        x: 153
-        y: 84
-        width: 16
-        height: 28
+        x: 384
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1161,20 +1240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cad59a39e6c509847a353ab7ef25b910
-      internalID: 1769370071
+      spriteID: cc37a48d96a9f8690800000000000000
+      internalID: -7597684266959735860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_51
+      name: OrcBaseIdle_45
       rect:
         serializedVersion: 2
-        x: 218
-        y: 84
-        width: 14
-        height: 29
+        x: 416
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,20 +1261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8737a0517636ccd43808d8336404b04c
-      internalID: 842933238
+      spriteID: 980d062cbda6ee1f0800000000000000
+      internalID: -1013755374020276087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_52
+      name: OrcBaseIdle_46
       rect:
         serializedVersion: 2
-        x: 281
-        y: 84
-        width: 13
-        height: 29
+        x: 448
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1203,20 +1282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7853e57de660f864bb778e1b8cd79f12
-      internalID: -190058806
+      spriteID: 6aaec130013737a80800000000000000
+      internalID: -8470299961544873306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_53
+      name: OrcBaseIdle_47
       rect:
         serializedVersion: 2
-        x: 342
-        y: 84
-        width: 19
-        height: 28
+        x: 480
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,20 +1303,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b114f0130646774bafad5e0ac12d87c
-      internalID: 1449889856
+      spriteID: 77e8c7efc111634b0800000000000000
+      internalID: -5461158681913815433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_54
+      name: OrcBaseIdle_48
       rect:
         serializedVersion: 2
-        x: 406
-        y: 84
-        width: 20
-        height: 31
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1245,20 +1324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00c4726942b52849aeefad682bfc02e
-      internalID: -329309894
+      spriteID: 3c6ac0127011d3870800000000000000
+      internalID: 8664099980447622851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_55
+      name: OrcBaseIdle_49
       rect:
         serializedVersion: 2
-        x: 470
-        y: 84
-        width: 19
-        height: 31
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,20 +1345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87e0741d40f570946b3a57649732fca2
-      internalID: -753354645
+      spriteID: ba2a3d10422b9d8f0800000000000000
+      internalID: -515184814637997397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_56
+      name: OrcBaseIdle_50
       rect:
         serializedVersion: 2
-        x: 25
-        y: 20
-        width: 14
-        height: 29
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,20 +1366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2beab5b061b926246ac657270c8ba5b3
-      internalID: 1098438018
+      spriteID: 0f3a6ff675d6d0020800000000000000
+      internalID: 2309622406218949616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_57
+      name: OrcBaseIdle_51
       rect:
         serializedVersion: 2
-        x: 90
-        y: 20
-        width: 12
-        height: 29
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1308,20 +1387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05b938584f3f8024c8bd7a78479d91cc
-      internalID: -316869044
+      spriteID: b0302bac845a61190800000000000000
+      internalID: -7992018756665474293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_58
+      name: OrcBaseIdle_52
       rect:
         serializedVersion: 2
-        x: 151
-        y: 20
-        width: 16
-        height: 28
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1329,20 +1408,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a367b8a7664a52b40a6ea5503b89b806
-      internalID: -174698137
+      spriteID: 87cac73e430edacc0800000000000000
+      internalID: -3698053201241789320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_59
+      name: OrcBaseIdle_53
       rect:
         serializedVersion: 2
-        x: 216
-        y: 20
-        width: 14
-        height: 29
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,20 +1429,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca7f2c3ab18c73f4998f50c4ee667a9a
-      internalID: 78518292
+      spriteID: b4f9279af2478e1d0800000000000000
+      internalID: -3321276977130594485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_60
+      name: OrcBaseIdle_54
       rect:
         serializedVersion: 2
-        x: 282
-        y: 20
-        width: 13
-        height: 29
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1371,20 +1450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2777dea1cd3fef34a8405c50c87d66f9
-      internalID: 808586248
+      spriteID: 7ca9c4c9ad5c62220800000000000000
+      internalID: 2460871789120363207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_61
+      name: OrcBaseIdle_55
       rect:
         serializedVersion: 2
-        x: 343
-        y: 20
-        width: 19
-        height: 28
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1392,20 +1471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33ca6408d90433749ae7ff993f19b671
-      internalID: 1748875740
+      spriteID: 55c308c9ec2934250800000000000000
+      internalID: 5927742950636272725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_62
+      name: OrcBaseIdle_56
       rect:
         serializedVersion: 2
-        x: 406
-        y: 20
-        width: 20
-        height: 31
+        x: 256
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1413,20 +1492,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ff17d5e6f48c48419cdaf360969225f
-      internalID: -1065709570
+      spriteID: 6fc896be501f40a40800000000000000
+      internalID: 5333652866440203510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: char_a_p1_0bas_humn_v01_63
+      name: OrcBaseIdle_57
       rect:
         serializedVersion: 2
-        x: 471
-        y: 20
-        width: 19
-        height: 31
+        x: 288
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1434,8 +1513,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb771b197b807cd4f9e43891c2094f99
-      internalID: -1098958346
+      spriteID: 10e98dd8e5cad2600800000000000000
+      internalID: 445201460286234113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea7cda538b737810800000000000000
+      internalID: 1761887683327326957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848795cdf16692230800000000000000
+      internalID: 3614532462968404040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673ccef3d65cc10a0800000000000000
+      internalID: -6909430655278595210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084531f8bfbbadc0800000000000000
+      internalID: -3626594273875113969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7270ff6affb4196a0800000000000000
+      internalID: -6444286030399994073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseIdle_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada4e7d1b3518190800000000000000
+      internalID: -7961990642917921374
       vertices: []
       indices: 
       edges: []
@@ -1451,70 +1656,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      char_a_p1_0bas_humn_v01_0: -566577355
-      char_a_p1_0bas_humn_v01_1: 1490935577
-      char_a_p1_0bas_humn_v01_10: 380556628
-      char_a_p1_0bas_humn_v01_11: 1306396965
-      char_a_p1_0bas_humn_v01_12: -1085782950
-      char_a_p1_0bas_humn_v01_13: -1716943758
-      char_a_p1_0bas_humn_v01_14: -1335744714
-      char_a_p1_0bas_humn_v01_15: -2080297883
-      char_a_p1_0bas_humn_v01_16: 329183725
-      char_a_p1_0bas_humn_v01_17: 1700067738
-      char_a_p1_0bas_humn_v01_18: -704563842
-      char_a_p1_0bas_humn_v01_19: -301480275
-      char_a_p1_0bas_humn_v01_2: 2004487667
-      char_a_p1_0bas_humn_v01_20: 456734343
-      char_a_p1_0bas_humn_v01_21: 1726795718
-      char_a_p1_0bas_humn_v01_22: -1485772560
-      char_a_p1_0bas_humn_v01_23: 513252107
-      char_a_p1_0bas_humn_v01_24: -108721800
-      char_a_p1_0bas_humn_v01_25: 2123206776
-      char_a_p1_0bas_humn_v01_26: 1972723908
-      char_a_p1_0bas_humn_v01_27: 806391672
-      char_a_p1_0bas_humn_v01_28: -386805682
-      char_a_p1_0bas_humn_v01_29: 88167995
-      char_a_p1_0bas_humn_v01_3: 1232459206
-      char_a_p1_0bas_humn_v01_30: -1225536615
-      char_a_p1_0bas_humn_v01_31: 885621756
-      char_a_p1_0bas_humn_v01_32: 1571218654
-      char_a_p1_0bas_humn_v01_33: 990015056
-      char_a_p1_0bas_humn_v01_34: 327065855
-      char_a_p1_0bas_humn_v01_35: -293404912
-      char_a_p1_0bas_humn_v01_36: 669344720
-      char_a_p1_0bas_humn_v01_37: 1827331048
-      char_a_p1_0bas_humn_v01_38: -2007616659
-      char_a_p1_0bas_humn_v01_39: -314973776
-      char_a_p1_0bas_humn_v01_4: -756712467
-      char_a_p1_0bas_humn_v01_40: 1499519571
-      char_a_p1_0bas_humn_v01_41: -127190776
-      char_a_p1_0bas_humn_v01_42: -487086430
-      char_a_p1_0bas_humn_v01_43: 1988266820
-      char_a_p1_0bas_humn_v01_44: -911592129
-      char_a_p1_0bas_humn_v01_45: -1713702310
-      char_a_p1_0bas_humn_v01_46: 507638279
-      char_a_p1_0bas_humn_v01_47: -1373316433
-      char_a_p1_0bas_humn_v01_48: -850330181
-      char_a_p1_0bas_humn_v01_49: -431220110
-      char_a_p1_0bas_humn_v01_5: -1807322061
-      char_a_p1_0bas_humn_v01_50: 1769370071
-      char_a_p1_0bas_humn_v01_51: 842933238
-      char_a_p1_0bas_humn_v01_52: -190058806
-      char_a_p1_0bas_humn_v01_53: 1449889856
-      char_a_p1_0bas_humn_v01_54: -329309894
-      char_a_p1_0bas_humn_v01_55: -753354645
-      char_a_p1_0bas_humn_v01_56: 1098438018
-      char_a_p1_0bas_humn_v01_57: -316869044
-      char_a_p1_0bas_humn_v01_58: -174698137
-      char_a_p1_0bas_humn_v01_59: 78518292
-      char_a_p1_0bas_humn_v01_6: -1662665726
-      char_a_p1_0bas_humn_v01_60: 808586248
-      char_a_p1_0bas_humn_v01_61: 1748875740
-      char_a_p1_0bas_humn_v01_62: -1065709570
-      char_a_p1_0bas_humn_v01_63: -1098958346
-      char_a_p1_0bas_humn_v01_7: 959773153
-      char_a_p1_0bas_humn_v01_8: 812340861
-      char_a_p1_0bas_humn_v01_9: -1662099477
+      OrcBaseIdle_0: 5717584393450056696
+      OrcBaseIdle_1: 8036290580475782788
+      OrcBaseIdle_10: 29643515174925299
+      OrcBaseIdle_11: 4050839375062998818
+      OrcBaseIdle_12: -8620208044091911152
+      OrcBaseIdle_13: 5399261295478812705
+      OrcBaseIdle_14: 8266346290578771504
+      OrcBaseIdle_15: -892589645532556037
+      OrcBaseIdle_16: -8103824365403274220
+      OrcBaseIdle_17: 5044924229776873052
+      OrcBaseIdle_18: 5719576846334713001
+      OrcBaseIdle_19: -900316634178524223
+      OrcBaseIdle_2: -6075310416523940504
+      OrcBaseIdle_20: -7749980266992972274
+      OrcBaseIdle_21: -7789894702351521517
+      OrcBaseIdle_22: -1159329589549419507
+      OrcBaseIdle_23: 1838860512847873853
+      OrcBaseIdle_24: -7859095764965124947
+      OrcBaseIdle_25: 8670525833754539897
+      OrcBaseIdle_26: 6483123373678834648
+      OrcBaseIdle_27: -4325730010255943439
+      OrcBaseIdle_28: -266825668020131086
+      OrcBaseIdle_29: 115507915926241170
+      OrcBaseIdle_3: -1718724041880390511
+      OrcBaseIdle_30: 4896560822865507143
+      OrcBaseIdle_31: 6847372049720871941
+      OrcBaseIdle_32: 8288623382817047645
+      OrcBaseIdle_33: 6438163550838505234
+      OrcBaseIdle_34: -2869137006359025258
+      OrcBaseIdle_35: -6232291119345686236
+      OrcBaseIdle_36: 7727914201207082894
+      OrcBaseIdle_37: -8526103530821700906
+      OrcBaseIdle_38: 1026455106457118017
+      OrcBaseIdle_39: 7498543408376803936
+      OrcBaseIdle_4: -7552264916850868914
+      OrcBaseIdle_40: 7124151952666394300
+      OrcBaseIdle_41: 760457711714051092
+      OrcBaseIdle_42: -8372723739701223374
+      OrcBaseIdle_43: 4020732786683871992
+      OrcBaseIdle_44: -7597684266959735860
+      OrcBaseIdle_45: -1013755374020276087
+      OrcBaseIdle_46: -8470299961544873306
+      OrcBaseIdle_47: -5461158681913815433
+      OrcBaseIdle_48: 8664099980447622851
+      OrcBaseIdle_49: -515184814637997397
+      OrcBaseIdle_5: 1192743203919900083
+      OrcBaseIdle_50: 2309622406218949616
+      OrcBaseIdle_51: -7992018756665474293
+      OrcBaseIdle_52: -3698053201241789320
+      OrcBaseIdle_53: -3321276977130594485
+      OrcBaseIdle_54: 2460871789120363207
+      OrcBaseIdle_55: 5927742950636272725
+      OrcBaseIdle_56: 5333652866440203510
+      OrcBaseIdle_57: 445201460286234113
+      OrcBaseIdle_58: 1761887683327326957
+      OrcBaseIdle_59: 3614532462968404040
+      OrcBaseIdle_6: 2678255166240876931
+      OrcBaseIdle_60: -6909430655278595210
+      OrcBaseIdle_61: -3626594273875113969
+      OrcBaseIdle_62: -6444286030399994073
+      OrcBaseIdle_63: -7961990642917921374
+      OrcBaseIdle_7: -5751026311993138640
+      OrcBaseIdle_8: 8487289639555340448
+      OrcBaseIdle_9: -262612338531403044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
