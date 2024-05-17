@@ -7,7 +7,6 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private float _speed;
     private PlayerInputs controls;
     private Rigidbody2D rigidBody;
-
     public UnityEvent OnMoveUp;
     public UnityEvent OnMoveDown;
     public UnityEvent OnMoveLeft;
