@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14ae2a383cc75a4381e2165d47ab8f0, type: 3}
+  m_Name: SkinList
+  m_EditorClassIdentifier: 
+  Skins:
+  - Animator: {fileID: 9100000, guid: 6b51e408ce600854e83e583e70deb668, type: 2}
+    SkinPreview: {fileID: 7371213629881750853, guid: a89bac45f0bcea54191d88d9aef7d54d, type: 3}
+    Cost: 30
+  - Animator: {fileID: 9100000, guid: 828e11738231edb4dbc4ab599b0c9de0, type: 2}
+    SkinPreview: {fileID: 7371213629881750853, guid: b6e3ed60a0ee0504c8145d29f169fe4f, type: 3}
+    Cost: 35
+  - Animator: {fileID: 9100000, guid: b53cb20e6693feb4bb1fcbbc192f896d, type: 2}
+    SkinPreview: {fileID: 7371213629881750853, guid: 80cceba97aa71c34e91c6d562856bdce, type: 3}
+    Cost: 15
