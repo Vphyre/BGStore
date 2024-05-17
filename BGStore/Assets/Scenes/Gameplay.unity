@@ -3831,6 +3831,20 @@ MonoBehaviour:
             clothes... You're in charge.
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1702932315}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Wow, you bought everything I have... I feel rich! I won't
+            be able to replenish my stock anytime soon... unless you sell me some
+            clothes... You're in charge.
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &605387531
 GameObject:
   m_ObjectHideFlags: 0
@@ -4200,7 +4214,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 15
+  m_SortingOrder: 16
   m_Sprite: {fileID: 1331010361, guid: 9dfa682d72adcc64f805ec07f75e6e53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
